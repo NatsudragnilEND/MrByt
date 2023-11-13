@@ -1,0 +1,1 @@
+import{P as e}from"./Podrobne-99ecf1ac.js";import{o,c as r,d as t}from"./index-de4ca0e6.js";const c={class:"container"},m={__name:"Services",setup(s){return(a,n)=>(o(),r("div",c,[t(e)]))}};export{m as default};
