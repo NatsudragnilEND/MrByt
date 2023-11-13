@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "name": "Javohir",
+    "img": "@/assets/img/1.png",
+    "miniImg": [
+      "@/assets/img/2.png",
+      "@/assets/img/3.png",
+      "@/assets/img/4.png",
+      "@/assets/img/5.png"
+    ]
+  }
+]

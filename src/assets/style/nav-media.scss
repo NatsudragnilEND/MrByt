@@ -1,0 +1,306 @@
+@media (max-width: 1500px) {
+    .nav-ul {
+        display: none;
+    }
+
+    .yyy {
+        margin-left: auto;
+        margin-right: 20px;
+
+    }
+
+    .machines {
+        background: #edf3f6;
+    }
+
+    .a {
+        display: flex;
+        background: white;
+        font-weight: 600;
+    }
+    .oznak{
+        width: 900px;
+    }
+    .nomer {
+        display: none;
+    }
+
+    .aeaeae {
+        display: block;
+    }
+
+    .nomerr {
+        display: none !important;
+    }
+
+
+    .fed {
+        padding: 120px 70px;
+        padding-left: 200px;
+        max-width: 650px;
+    }
+
+    .vsa {
+        gap: 50px;
+    }
+    .wew{
+        background-color: #FED036;
+    }
+    .container{
+        max-width: 900px;
+    }
+    .wew{
+        width: 490px;
+        height: 300px;
+        margin-top: 70px;
+    }
+    .fed{
+        padding-left: 60px;
+        max-width: 600px !important;
+    }
+    .vsa {
+        display: flex;
+        gap: 0px !important;
+    }
+    h1{
+        font-size: 45px;
+        
+    }
+    .subb{
+        width: 120px;
+    }
+    .yput{
+        font-size: 15px;
+    }
+    .forrm{
+        width: 300px;
+    }
+    .fed{
+        padding: 30px 30px 30px 30px;
+    }
+}
+@media (max-width: 1800px) {
+
+    .fed {
+        padding: 120px 70px;
+        padding-left: 200px;
+    }
+
+    .vsa {
+        gap: 50px;
+    }
+    .wew{
+        background-color: #FED036;
+    }
+}
+@media (max-width: 1700px) {
+    .fed{
+        padding-left: 100px;
+    }
+    .vsa {
+        display: flex;
+        gap: 160px;
+    }
+    .wew{
+        width: 600px;
+        height: 500px;
+        margin-top: 70px;
+    }
+    .oznak{
+        width: 1000px;
+    }
+    .container{
+        max-width: 1320px;
+    }
+}
+@media (max-width: 1400px) {
+    .wew{
+        width: 450px;
+        height: 400px;
+        margin-top: 70px;
+    }
+    .container{
+        max-width: 950px;
+    }
+}
+@media (max-width: 1200px) {
+    .fed{
+        max-width: 450px;
+    }
+}
+@media (max-width: 1200px) {
+    .container{
+        max-width: 800px;
+    }
+    .oznak{
+        width: 800px;
+    }
+    h1{
+        font-size: 40px;
+        max-width: 350px;
+    }
+    .looks{
+        max-width: 100%;
+    }
+}
+@media (max-width: 1000px) {
+    .oznak{
+        width: 600px;
+    }
+    .wew{
+        width: 400px;
+        height: 400px;
+    }
+    h1{
+        font-size: 30px;
+        max-width: 350px;
+    }
+    .forrm{
+        max-width: 300px;
+    }
+    .subb{
+        max-width: 90px;
+        font-size: 15px;
+        padding: 10px;
+    }
+    .fed{
+        padding-left: 30px !important;
+
+    }
+}
+@media (max-width: 850px) {
+    .fed{
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        width: 100%;
+        margin: auto;
+        align-items: center;
+        padding: 50px;
+    }
+    .dost{
+        display: none;
+    }
+    .forrm{
+        display: none;
+    }
+    .wew{
+        width: 350px;
+        margin: auto;
+        padding-left: 25px;
+    }
+    .vsa{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .container{
+        max-width: 700px;
+    }
+    h1{
+        text-align: center;
+    }
+    .moscow{
+        display: none;
+    }
+}
+@media (max-width: 750px) {
+    .looks{
+        font-size: 35px;
+
+    }
+    .oznak{
+        width: 500px;
+    }
+    .fed{
+        width: 450px;
+        margin: auto;
+    }
+    .container{
+        max-width: 550px;
+    }
+    h1{
+        font-size: 22px;
+    }
+    .easi{
+        font-size: 20px;
+    }
+}
+@media (max-width: 600px) {
+    .oznak{
+        width: 400px;
+    }
+    .fed{
+        width: 400px;
+        margin: auto;
+    }
+    .container{
+        max-width: 450px;
+    }
+}
+@media (max-width: 500px) {
+    .container{
+        max-width: 350px;
+    }
+    .oznak{
+        width: 350px;
+        font-size: 15px;
+    }
+    .fed{
+        width: 300px;
+        margin: auto;
+    }
+}
+@media (max-width: 450px) {
+    .wew{
+        width: 300px;
+    }
+    .watsup{
+        width: 30px;
+    }
+    .looks{
+        font-size: 25px;
+    }
+    .container{
+        max-width: 300px;
+    }
+    .fed{
+        width: 300px;
+    }
+    h1{
+        font-size: 18px;
+    }
+    .oznak{
+        text-align: center;
+        width: 280px;
+    }
+    .fed{
+        padding: 30px;
+    }
+    .fed{
+        width: 300px;
+    }
+}
+@media (max-width: 370px) {
+    .looks{
+        font-size: 18px;
+        
+    }
+    .fed{
+        width: 265px;
+    }
+    .logo{
+        width: 90px;
+    }
+    .container{
+        max-width: 250px;
+    }
+    .oznak{
+        font-size: 14px;
+        max-width: 250px;
+    }
+    h1{
+        max-width: 250px;
+    }
+}
+
